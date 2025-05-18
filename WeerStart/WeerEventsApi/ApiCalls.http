@@ -1,0 +1,11 @@
+### GET
+GET http://localhost:5008/
+
+###
+
+### GET steden
+GET http://localhost:5008/steden
+
+###
+
+//TODO api tests aanvullen
