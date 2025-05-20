@@ -2,5 +2,6 @@ namespace WeerEventsApi.Facade.Dto;
 
 public class WeerBerichtDto
 {
-    //TODO
+    public string Inhoud { get; set; }
+    public DateTime Moment { get; set; }
 }

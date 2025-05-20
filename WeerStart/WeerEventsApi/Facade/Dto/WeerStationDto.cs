@@ -2,5 +2,6 @@ namespace WeerEventsApi.Facade.Dto;
 
 public class WeerStationDto
 {
-    //TODO
+    public string StadNaam { get; set; }
+    public string Type { get; set; }
 }

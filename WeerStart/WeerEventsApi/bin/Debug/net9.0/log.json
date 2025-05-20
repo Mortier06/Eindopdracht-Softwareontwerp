@@ -1,0 +1,120 @@
+{
+  "TijdstipMeting": "2025-05-20T22:02:42.7941052+02:00",
+  "Eenheid": 2,
+  "Waarde": 2,
+  "Locatie": {
+    "Naam": "Gent",
+    "Beschrijving": "Grootste stad van Oost-Vlaanderen",
+    "GekendVoor": "Studenten"
+  }
+}
+{
+  "TijdstipMeting": "2025-05-20T22:02:42.8129943+02:00",
+  "Eenheid": 1,
+  "Waarde": 17,
+  "Locatie": {
+    "Naam": "Aalst",
+    "Beschrijving": "Tweede grootste stad van Oost-Vlaanderen",
+    "GekendVoor": "Carnaval"
+  }
+}
+{
+  "TijdstipMeting": "2025-05-20T22:02:42.8183392+02:00",
+  "Eenheid": 1,
+  "Waarde": 12,
+  "Locatie": {
+    "Naam": "Sint-Niklaas",
+    "Beschrijving": "Derde grootste stad van Oost-Vlaanderen",
+    "GekendVoor": "Marktplein"
+  }
+}
+{
+  "TijdstipMeting": "2025-05-20T22:02:42.8193485+02:00",
+  "Eenheid": 2,
+  "Waarde": 21,
+  "Locatie": {
+    "Naam": "Luik",
+    "Beschrijving": "Vierde grootste stad van Belgie",
+    "GekendVoor": "Festivallen"
+  }
+}
+{
+  "TijdstipMeting": "2025-05-20T22:02:42.8203839+02:00",
+  "Eenheid": 1,
+  "Waarde": 5,
+  "Locatie": {
+    "Naam": "Brussels",
+    "Beschrijving": "Hoofdstad van Belgie",
+    "GekendVoor": "Hoofdstad"
+  }
+}
+{
+  "TijdstipMeting": "2025-05-20T22:02:42.821382+02:00",
+  "Eenheid": 1,
+  "Waarde": 10,
+  "Locatie": {
+    "Naam": "Antwerpen",
+    "Beschrijving": "Belangrijke havenstad",
+    "GekendVoor": "Diamantindustrie"
+  }
+}
+{
+  "TijdstipMeting": "2025-05-20T22:02:42.8221711+02:00",
+  "Eenheid": 0,
+  "Waarde": 44,
+  "Locatie": {
+    "Naam": "Oostende",
+    "Beschrijving": "Stad aan de kust",
+    "GekendVoor": "Strand"
+  }
+}
+{
+  "TijdstipMeting": "2025-05-20T22:02:42.8229655+02:00",
+  "Eenheid": 2,
+  "Waarde": 3,
+  "Locatie": {
+    "Naam": "Charleroi",
+    "Beschrijving": "Vroeger een industrieel centrum",
+    "GekendVoor": "Luchthaven"
+  }
+}
+{
+  "TijdstipMeting": "2025-05-20T22:02:42.8241245+02:00",
+  "Eenheid": 1,
+  "Waarde": 3,
+  "Locatie": {
+    "Naam": "Leuven",
+    "Beschrijving": "Studentenstad",
+    "GekendVoor": "Universiteit"
+  }
+}
+{
+  "TijdstipMeting": "2025-05-20T22:02:42.8250428+02:00",
+  "Eenheid": 3,
+  "Waarde": 1018,
+  "Locatie": {
+    "Naam": "Namen",
+    "Beschrijving": "Hoofdstad van Wallonie",
+    "GekendVoor": "Jaarlijkse Festival"
+  }
+}
+{
+  "TijdstipMeting": "2025-05-20T22:02:42.8262096+02:00",
+  "Eenheid": 1,
+  "Waarde": 7,
+  "Locatie": {
+    "Naam": "Mechelen",
+    "Beschrijving": "Stad tussen Brussels en Antwerpen",
+    "GekendVoor": "Kerken"
+  }
+}
+{
+  "TijdstipMeting": "2025-05-20T22:02:42.8270336+02:00",
+  "Eenheid": 3,
+  "Waarde": 965,
+  "Locatie": {
+    "Naam": "Gent",
+    "Beschrijving": "Stad waar we nu zijn",
+    "GekendVoor": "Architectuur"
+  }
+}

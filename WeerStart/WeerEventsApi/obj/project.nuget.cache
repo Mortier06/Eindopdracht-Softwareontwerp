@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m37e7H5wLiE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\WeerEventsApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thibaud.Mortier\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\Thibaud.Mortier\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,6 +1,8 @@
+using WeerEventsApi.Weerstations;
+
 namespace WeerEventsApi.Logging;
 
 public interface IMetingLogger
 {
-    void Log(string message);
+    void Log(Meting message);
 }

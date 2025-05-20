@@ -1,10 +1,21 @@
+using WeerEventsApi.Decorators;
+
 namespace WeerEventsApi.Logging.Factories;
 
 public static class MetingLoggerFactory
 {
-    public static IMetingLogger Create(bool decorateWithJson = false, bool decorateWithXml = false)
+    public static IMetingLogger Create(bool decorateWithJson, bool decorateWithXml)
     {
-        //TODO Alle combinaties moeten mogelijk zijn (false,false | true,false | false,true | true,true)
-        return new MetingLogger();
+        IMetingLogger logger = new MetingLogger();
+
+        if (decorateWithXml)
+        {
+            logger = new XmlDecorator(logger);
+        }
+        if (decorateWithJson)
+        {
+            logger = new JsonDecorator(logger);
+        }
+        return logger;
     }
 }
