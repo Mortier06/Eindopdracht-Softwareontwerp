@@ -5,5 +5,5 @@ public class MetingDto
     public DateTime Moment { get; set; }
     public double Waarde { get; set; }
     public string Eenheid { get; set; }
-    public StadDto Stad { get; set; }
+    public string Stad { get; set; }
 }

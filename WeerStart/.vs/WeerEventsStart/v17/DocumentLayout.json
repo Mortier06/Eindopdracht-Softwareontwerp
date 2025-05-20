@@ -7,52 +7,60 @@
       "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\weerberichten\\weerbericht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\weerberichten\\weerberichtmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\weerberichten\\weerberichtmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\logging\\factories\\metingloggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\logging\\factories\\metingloggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\logging\\imetinglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\logging\\imetinglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\logging\\loggingobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\logging\\loggingobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\logging\\metinglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\logging\\metinglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\facade\\dto\\metingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\facade\\dto\\metingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\facade\\dto\\weerstationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\facade\\dto\\weerstationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\facade\\dto\\weerberichtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\facade\\dto\\weerberichtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\factory\\weerstationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\factory\\weerstationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\facade\\controllers\\domeincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\facade\\controllers\\domeincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\decorators\\xmldecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\decorators\\xmldecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\observer\\iobservable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\observer\\iobservable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\log.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\log.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\steden\\repositories\\istadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\steden\\repositories\\istadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\log.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\log.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\steden\\repositories\\stadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\steden\\repositories\\stadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\bin\\Debug\\net9.0\\log.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeerEventsApi\\bin\\Debug\\net9.0\\log.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\weerberichten\\iweerbericht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\weerberichten\\iweerbericht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\apicalls.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\apicalls.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\decorators\\jsondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\decorators\\jsondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\steden\\managers\\istadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\steden\\managers\\istadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\weerberichten\\weerberichtmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\weerberichten\\weerberichtmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\weerstations\\weerstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,84 +71,72 @@
       "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\steden\\managers\\stadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\logging\\factories\\metingloggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\logging\\factories\\metingloggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\steden\\managers\\istadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\steden\\managers\\istadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\steden\\repositories\\stadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\steden\\repositories\\stadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\log.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\log.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\logging\\loggingobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\logging\\loggingobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\apicalls.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\apicalls.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\weerberichten\\iweerbericht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\weerberichten\\iweerbericht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\log.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\log.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\weerstations\\stationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\weerstations\\stationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\logging\\metinglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\logging\\metinglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\logging\\imetinglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\logging\\imetinglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\facade\\dto\\weerstationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\facade\\dto\\weerstationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\steden\\data\\steden.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\steden\\data\\steden.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\steden\\stad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\steden\\stad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\weerstations\\eenheid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\weerstations\\eenheid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\facade\\controllers\\domeincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\facade\\controllers\\domeincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\weerstations\\meting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\weerstations\\meting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\decorators\\xmldecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\decorators\\xmldecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\facade\\dto\\weerberichtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\facade\\dto\\weerberichtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\steden\\data\\steden.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\steden\\data\\steden.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\steden\\repositories\\istadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\steden\\repositories\\istadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\observer\\iobservable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\observer\\iobservable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\facade\\dto\\metingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\facade\\dto\\metingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\weerstations\\eenheid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\weerstations\\eenheid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\facade\\controllers\\idomeincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\facade\\controllers\\idomeincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\decorators\\jsondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\decorators\\jsondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\steden\\stad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\steden\\stad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\facade\\dto\\staddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\facade\\dto\\staddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\weerstations\\stationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\weerstations\\stationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\bin\\Debug\\net9.0\\log.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeerEventsApi\\bin\\Debug\\net9.0\\log.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\thibaud.mortier\\school\\so2\\eindopdracht-softwareontwerp\\weerstart\\weereventsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 35,
+          "SelectedChildIndex": 31,
           "Children": [
             {
               "$type": "Bookmark",
@@ -174,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 2,
               "Title": "IMetingLogger.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Logging\\IMetingLogger.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Logging\\IMetingLogger.cs",
@@ -182,23 +178,25 @@
               "RelativeToolTip": "WeerEventsApi\\Logging\\IMetingLogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T16:24:56.265Z"
+              "WhenOpened": "2025-05-18T16:24:56.265Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 4,
               "Title": "MetingLogger.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Logging\\MetingLogger.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Logging\\MetingLogger.cs",
               "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Logging\\MetingLogger.cs",
               "RelativeToolTip": "WeerEventsApi\\Logging\\MetingLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T16:25:03.255Z"
+              "WhenOpened": "2025-05-18T16:25:03.255Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "steden.json",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Steden\\Data\\steden.json",
               "RelativeDocumentMoniker": "WeerEventsApi\\Steden\\Data\\steden.json",
@@ -206,11 +204,12 @@
               "RelativeToolTip": "WeerEventsApi\\Steden\\Data\\steden.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAUwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-18T16:25:12.747Z"
+              "WhenOpened": "2025-05-18T16:25:12.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "IStadManager.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Steden\\Managers\\IStadManager.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Steden\\Managers\\IStadManager.cs",
@@ -218,11 +217,12 @@
               "RelativeToolTip": "WeerEventsApi\\Steden\\Managers\\IStadManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T16:25:21.202Z"
+              "WhenOpened": "2025-05-18T16:25:21.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "StadManager.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Steden\\Managers\\StadManager.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Steden\\Managers\\StadManager.cs",
@@ -230,11 +230,12 @@
               "RelativeToolTip": "WeerEventsApi\\Steden\\Managers\\StadManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T16:25:22.305Z"
+              "WhenOpened": "2025-05-18T16:25:22.305Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 11,
               "Title": "IStadRepository.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Steden\\Repositories\\IStadRepository.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Steden\\Repositories\\IStadRepository.cs",
@@ -242,11 +243,12 @@
               "RelativeToolTip": "WeerEventsApi\\Steden\\Repositories\\IStadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T16:25:26.586Z"
+              "WhenOpened": "2025-05-18T16:25:26.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 12,
               "Title": "StadRepository.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Steden\\Repositories\\StadRepository.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Steden\\Repositories\\StadRepository.cs",
@@ -254,11 +256,12 @@
               "RelativeToolTip": "WeerEventsApi\\Steden\\Repositories\\StadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T16:25:27.187Z"
+              "WhenOpened": "2025-05-18T16:25:27.187Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Stad.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Steden\\Stad.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Steden\\Stad.cs",
@@ -266,100 +269,64 @@
               "RelativeToolTip": "WeerEventsApi\\Steden\\Stad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T16:25:36.26Z"
+              "WhenOpened": "2025-05-18T16:25:36.26Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Program.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Program.cs",
               "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Program.cs",
               "RelativeToolTip": "WeerEventsApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T16:25:49.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WeerEventsApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WeerEventsApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-18T16:26:16.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "ApiCalls.http",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\ApiCalls.http",
               "RelativeDocumentMoniker": "WeerEventsApi\\ApiCalls.http",
               "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\ApiCalls.http",
               "RelativeToolTip": "WeerEventsApi\\ApiCalls.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2025-05-19T17:15:26.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "log.json",
-              "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\log.json",
-              "RelativeDocumentMoniker": "WeerEventsApi\\log.json",
-              "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\log.json",
-              "RelativeToolTip": "WeerEventsApi\\log.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-19T17:21:27.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "log.xml",
-              "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\log.xml",
-              "RelativeDocumentMoniker": "WeerEventsApi\\log.xml",
-              "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\log.xml",
-              "RelativeToolTip": "WeerEventsApi\\log.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-19T17:21:35.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 21,
               "Title": "DomeinController.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Facade\\Controllers\\DomeinController.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Facade\\Controllers\\DomeinController.cs",
               "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Facade\\Controllers\\DomeinController.cs",
               "RelativeToolTip": "WeerEventsApi\\Facade\\Controllers\\DomeinController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T17:21:56.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 5,
               "Title": "MetingDto.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Facade\\Dto\\MetingDto.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Facade\\Dto\\MetingDto.cs",
               "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Facade\\Dto\\MetingDto.cs",
               "RelativeToolTip": "WeerEventsApi\\Facade\\Dto\\MetingDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:22:58.841Z"
+              "WhenOpened": "2025-05-19T17:22:58.841Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 30,
               "Title": "StadDto.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Facade\\Dto\\StadDto.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Facade\\Dto\\StadDto.cs",
@@ -367,11 +334,12 @@
               "RelativeToolTip": "WeerEventsApi\\Facade\\Dto\\StadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:23:05.129Z"
+              "WhenOpened": "2025-05-19T17:23:05.129Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 7,
               "Title": "WeerBerichtDto.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Facade\\Dto\\WeerBerichtDto.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Facade\\Dto\\WeerBerichtDto.cs",
@@ -379,11 +347,12 @@
               "RelativeToolTip": "WeerEventsApi\\Facade\\Dto\\WeerBerichtDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:23:06.325Z"
+              "WhenOpened": "2025-05-19T17:23:06.325Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 6,
               "Title": "WeerStationDto.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Facade\\Dto\\WeerStationDto.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Facade\\Dto\\WeerStationDto.cs",
@@ -391,35 +360,38 @@
               "RelativeToolTip": "WeerEventsApi\\Facade\\Dto\\WeerStationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:35:57.192Z"
+              "WhenOpened": "2025-05-19T17:35:57.192Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Weerstation.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Weerstations\\Weerstation.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Weerstations\\Weerstation.cs",
               "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Weerstations\\Weerstation.cs",
               "RelativeToolTip": "WeerEventsApi\\Weerstations\\Weerstation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:48:41.546Z"
+              "WhenOpened": "2025-05-19T17:48:41.546Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 22,
               "Title": "Meting.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Weerstations\\Meting.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Weerstations\\Meting.cs",
               "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Weerstations\\Meting.cs",
               "RelativeToolTip": "WeerEventsApi\\Weerstations\\Meting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:50:16.721Z"
+              "WhenOpened": "2025-05-19T17:50:16.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "StationType.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Weerstations\\StationType.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Weerstations\\StationType.cs",
@@ -427,35 +399,25 @@
               "RelativeToolTip": "WeerEventsApi\\Weerstations\\StationType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:51:31.614Z"
+              "WhenOpened": "2025-05-19T17:51:31.614Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Eenheid.cs",
-              "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Weerstations\\Eenheid.cs",
-              "RelativeDocumentMoniker": "WeerEventsApi\\Weerstations\\Eenheid.cs",
-              "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Weerstations\\Eenheid.cs",
-              "RelativeToolTip": "WeerEventsApi\\Weerstations\\Eenheid.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:59:42.279Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 1,
               "Title": "MetingLoggerFactory.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Logging\\Factories\\MetingLoggerFactory.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Logging\\Factories\\MetingLoggerFactory.cs",
               "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Logging\\Factories\\MetingLoggerFactory.cs",
               "RelativeToolTip": "WeerEventsApi\\Logging\\Factories\\MetingLoggerFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:09:24.819Z"
+              "WhenOpened": "2025-05-19T18:09:24.819Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 9,
               "Title": "IObserver.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Observer\\IObserver.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Observer\\IObserver.cs",
@@ -463,11 +425,12 @@
               "RelativeToolTip": "WeerEventsApi\\Observer\\IObserver.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:38:20.687Z"
+              "WhenOpened": "2025-05-19T18:38:20.687Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 23,
               "Title": "XmlDecorator.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Decorators\\XmlDecorator.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Decorators\\XmlDecorator.cs",
@@ -480,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 10,
               "Title": "IObservable.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Observer\\IObservable.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Observer\\IObservable.cs",
@@ -488,11 +451,12 @@
               "RelativeToolTip": "WeerEventsApi\\Observer\\IObservable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:38:57.245Z"
+              "WhenOpened": "2025-05-19T18:38:57.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 3,
               "Title": "LoggingObserver.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Logging\\LoggingObserver.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Logging\\LoggingObserver.cs",
@@ -500,11 +464,12 @@
               "RelativeToolTip": "WeerEventsApi\\Logging\\LoggingObserver.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:52:47.9Z"
+              "WhenOpened": "2025-05-19T18:52:47.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\appsettings.json",
               "RelativeDocumentMoniker": "WeerEventsApi\\appsettings.json",
@@ -516,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 27,
               "Title": "JsonDecorator.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Decorators\\JsonDecorator.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Decorators\\JsonDecorator.cs",
@@ -524,11 +489,12 @@
               "RelativeToolTip": "WeerEventsApi\\Decorators\\JsonDecorator.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T19:13:49.323Z"
+              "WhenOpened": "2025-05-19T19:13:49.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 13,
               "Title": "IWeerbericht.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Weerberichten\\IWeerbericht.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Weerberichten\\IWeerbericht.cs",
@@ -536,7 +502,8 @@
               "RelativeToolTip": "WeerEventsApi\\Weerberichten\\IWeerbericht.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T19:22:13.317Z"
+              "WhenOpened": "2025-05-19T19:22:13.317Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -546,27 +513,27 @@
               "RelativeDocumentMoniker": "WeerEventsApi\\Weerberichten\\Weerbericht.cs",
               "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Weerberichten\\Weerbericht.cs",
               "RelativeToolTip": "WeerEventsApi\\Weerberichten\\Weerbericht.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T19:23:15.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "WeerberichtManager.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Weerberichten\\WeerberichtManager.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Weerberichten\\WeerberichtManager.cs",
               "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Weerberichten\\WeerberichtManager.cs",
               "RelativeToolTip": "WeerEventsApi\\Weerberichten\\WeerberichtManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T20:07:36.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 26,
               "Title": "IDomeinController.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Facade\\Controllers\\IDomeinController.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Facade\\Controllers\\IDomeinController.cs",
@@ -574,24 +541,25 @@
               "RelativeToolTip": "WeerEventsApi\\Facade\\Controllers\\IDomeinController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T20:35:27.988Z"
+              "WhenOpened": "2025-05-19T20:35:27.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "WeerstationFactory.cs",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Factory\\WeerstationFactory.cs",
               "RelativeDocumentMoniker": "WeerEventsApi\\Factory\\WeerstationFactory.cs",
               "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Factory\\WeerstationFactory.cs",
               "RelativeToolTip": "WeerEventsApi\\Factory\\WeerstationFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T20:37:40.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 32,
               "Title": "log.json",
               "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\bin\\Debug\\net9.0\\log.json",
               "RelativeDocumentMoniker": "WeerEventsApi\\bin\\Debug\\net9.0\\log.json",
@@ -599,7 +567,45 @@
               "RelativeToolTip": "WeerEventsApi\\bin\\Debug\\net9.0\\log.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-19T22:04:11.754Z",
+              "WhenOpened": "2025-05-19T22:04:11.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Eenheid.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Weerstations\\Eenheid.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Weerstations\\Eenheid.cs",
+              "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\Weerstations\\Eenheid.cs",
+              "RelativeToolTip": "WeerEventsApi\\Weerstations\\Eenheid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:59:42.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "log.json",
+              "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\log.json",
+              "RelativeDocumentMoniker": "WeerEventsApi\\log.json",
+              "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\log.json",
+              "RelativeToolTip": "WeerEventsApi\\log.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T21:08:28.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "log.xml",
+              "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\log.xml",
+              "RelativeDocumentMoniker": "WeerEventsApi\\log.xml",
+              "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\so2\\Eindopdracht-Softwareontwerp\\WeerStart\\WeerEventsApi\\log.xml",
+              "RelativeToolTip": "WeerEventsApi\\log.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-20T21:18:20.181Z",
               "EditorCaption": ""
             }
           ]

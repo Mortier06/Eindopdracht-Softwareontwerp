@@ -24,19 +24,19 @@ namespace WeerEventsApi.Weerstations
             switch (Type)
             {
                 case StationType.Temperatuur:
-                    waarde = _random.Next(-20, 41); // -20 tot +40°C
+                    waarde = _random.Next(-5, 41);
                     eenheid = Eenheid.GradenCelsius;
                     break;
                 case StationType.Wind:
-                    waarde = _random.Next(0, 150); // 0 tot 150 km/u
+                    waarde = _random.Next(0, 100);
                     eenheid = Eenheid.KilometerPerUur;
                     break;
                 case StationType.Luchtdruk:
-                    waarde = _random.Next(950, 1050); // 950 tot 1050 hPa
+                    waarde = _random.Next(950, 1050);
                     eenheid = Eenheid.HectoPascal;
                     break;
                 case StationType.Neerslag:
-                    waarde = _random.Next(0, 20); // 0 tot 20 mm/m²/u
+                    waarde = _random.Next(0, 20);
                     eenheid = Eenheid.MillimeterPerVierkanteMeterPerUur;
                     break;
                 default:
@@ -63,7 +63,6 @@ namespace WeerEventsApi.Weerstations
 
         public void Notify(Meting meting)
         {
-            Console.WriteLine($"Notify voor {meting.Locatie.Naam} met waarde {meting.Waarde}");
             foreach (var ob in _observers)
             {
                 ob.Update(meting);

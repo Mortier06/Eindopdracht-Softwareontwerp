@@ -8,5 +8,10 @@ namespace WeerEventsApi.Weerstations
         public double Waarde {  get; set; }
         public Eenheid Eenheid { get; set; }
         public Stad Locatie { get; set; }
+
+        public override string ToString()
+        {
+            return $"{TijdstipMeting}    -   {Waarde}, {Eenheid}, {Locatie.Naam}";
+        }
     }
 }

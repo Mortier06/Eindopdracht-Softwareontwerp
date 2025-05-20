@@ -8,10 +8,11 @@ namespace WeerEventsApi.Factory
     public class WeerstationFactory
     {
 
-        private static readonly Random _random = new();
+       
 
         public static List<Weerstation> MaakWeerstations()
         {
+            Random _random = new();
             var stadRepo = new StadRepository();
             var steden = stadRepo.GetSteden().ToList();
 
@@ -22,7 +23,8 @@ namespace WeerEventsApi.Factory
 
             foreach (var stad in steden)
             {
-                var type = stationTypes[_random.Next(stationTypes.Count)];
+                int index = _random.Next(stationTypes.Count);
+                var type = stationTypes[index];
 
                 var weerstation = new Weerstation
                 {

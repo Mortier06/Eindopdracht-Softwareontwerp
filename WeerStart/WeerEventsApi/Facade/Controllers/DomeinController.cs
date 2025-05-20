@@ -9,13 +9,13 @@ public class DomeinController : IDomeinController
 {
     private readonly IStadManager _stadManager;
     private List<Weerstation> _weerstations;
-    private WeerberichtManager _weerberichtSysteem;
+    private WeerberichtManager _weerberichtManager;
 
     public DomeinController(IStadManager stadManager, List<Weerstation> weerstations, WeerberichtManager weerberichtManager)
     {
         _stadManager = stadManager;
         _weerstations = weerstations;
-        _weerberichtSysteem = weerberichtManager;
+        _weerberichtManager = weerberichtManager;
     }
 
     public IEnumerable<StadDto> GeefSteden()
@@ -46,12 +46,7 @@ public class DomeinController : IDomeinController
             Moment = m.TijdstipMeting,
             Waarde = m.Waarde,
             Eenheid = m.Eenheid.ToString(),
-            Stad = new StadDto
-            {
-                Naam = m.Locatie.Naam,
-                Beschrijving = m.Locatie.Beschrijving,
-                GekendVoor = m.Locatie.GekendVoor
-            }
+            Stad = m.Locatie.Naam
         });
     }
 
@@ -66,7 +61,7 @@ public class DomeinController : IDomeinController
     public WeerBerichtDto GeefWeerbericht()
     {
         var metingen = _weerstations.SelectMany(ws => ws.GeefMetingen()).ToList();
-        var weerbericht = new Weerbericht(metingen);
+        var weerbericht = _weerberichtManager.MaakWeerbericht(metingen);
 
         return new WeerBerichtDto
         {
